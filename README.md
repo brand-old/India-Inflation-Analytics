@@ -1,1 +1,1 @@
-# India-Inflation-Analytics-Forecasting
+# India-Inflation-Analytics
